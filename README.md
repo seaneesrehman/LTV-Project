@@ -15,3 +15,8 @@ To start a local development server, run:
 npm run start:dev
 ```
 
+## implementaiton details 
+
+I have use nestjs a node framework to implement this API.
+Authentication has been added
+Middleware concept has been added to validate the request 
